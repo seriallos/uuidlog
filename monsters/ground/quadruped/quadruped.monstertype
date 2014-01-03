@@ -1,0 +1,6 @@
+{
+  "__merge": [],
+  "baseParameters": {
+    "scripts": [ "/scripts/uuidlog.lua" ]
+  }
+}
